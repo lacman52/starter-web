@@ -22,4 +22,4 @@ This is another example
 
 ## Copyright
 
- "2020" Git training
+ "2020" Git training. And added more text...
