@@ -19,3 +19,7 @@ Deployment
 
 This is example
 This is another example
+
+## Copyright
+
+ "2020" Git training
